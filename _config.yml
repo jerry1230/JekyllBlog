@@ -3,8 +3,8 @@
 # project's root directory. Please note that the following lines are
 # NECESSARY for Prologue to work correctly:
 #
-# theme: jekyll-theme-prologue
-# collections: [sections]
+theme: jekyll-theme-prologue
+collections: [sections]
 #
 # They activate the theme and tell Jekyll to find your homepage content
 # in /_sections. Note where "sections" starts with an underscore
@@ -45,8 +45,8 @@ url: "https://jerry1230.github.io" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url:https://github.com/jerry1230
-googleplus_url:
+github_url:
+googleplus_url: https://github.com/jerry1230
 instagram_url:
 linkedin_url:
 pinterest_url:
