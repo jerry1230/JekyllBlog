@@ -35,7 +35,7 @@ subtitle: Rome wasn't built in a day.
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
+author: jerry1230
 email: jerry1230@live.com
 avatar: assets/images/avatar.jpg
 
@@ -45,13 +45,14 @@ url: "https://jerry1230.github.io" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url:
-googleplus_url: https://github.com/jerry1230
+github_url: https://github.com/jerry1230
+googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
+weibo_url: http://weibo.com/aiceland
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
